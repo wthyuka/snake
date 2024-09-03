@@ -130,4 +130,5 @@ def run():
         pygame.display.update()
         clock.tick(15)  # limit the frame rate to 15 FPS
 if __name__ == '__main__':
-    run()
+    run() 
+    #inigamesaya
